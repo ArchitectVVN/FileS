@@ -1,0 +1,1 @@
+Bonjour, c'est du texte en ISO-8859-1!

@@ -1,0 +1,23 @@
+[
+    {
+        "filename": "example_ascii_processed.txt",
+        "full_path": "project_root\\data\\processed\\example_ascii_processed.txt",
+        "file_size": 26,
+        "creation_date": "2024-12-28 10:03:10",
+        "last_modified": "2024-12-28 10:03:10"
+    },
+    {
+        "filename": "example_iso_processed.txt",
+        "full_path": "project_root\\data\\processed\\example_iso_processed.txt",
+        "file_size": 38,
+        "creation_date": "2024-12-28 10:03:10",
+        "last_modified": "2024-12-28 10:03:10"
+    },
+    {
+        "filename": "example_utf8_processed.txt",
+        "full_path": "project_root\\data\\processed\\example_utf8_processed.txt",
+        "file_size": 41,
+        "creation_date": "2024-12-28 10:03:10",
+        "last_modified": "2024-12-28 10:03:10"
+    }
+]

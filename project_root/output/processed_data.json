@@ -1,0 +1,23 @@
+[
+    {
+        "filename": "example_ascii_processed.txt",
+        "original_text": "Hello, this is ASCII text!",
+        "processed_text": "hELLO, THIS IS ascii TEXT!",
+        "file_size_bytes": 26,
+        "last_modified": "2024-12-28 10:03:10"
+    },
+    {
+        "filename": "example_iso_processed.txt",
+        "original_text": "Bonjour, c'est du texte en ISO-8859-1!",
+        "processed_text": "bONJOUR, C'EST DU TEXTE EN iso-8859-1!",
+        "file_size_bytes": 38,
+        "last_modified": "2024-12-28 10:03:10"
+    },
+    {
+        "filename": "example_utf8_processed.txt",
+        "original_text": "Привет, это текст в UTF-8!",
+        "processed_text": "пРИВЕТ, ЭТО ТЕКСТ В utf-8!",
+        "file_size_bytes": 41,
+        "last_modified": "2024-12-28 10:03:10"
+    }
+]

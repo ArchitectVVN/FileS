@@ -1,0 +1,33 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "FileInfo List",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "filename": {
+                "type": "string"
+            },
+            "full_path": {
+                "type": "string"
+            },
+            "file_size": {
+                "type": "integer",
+                "minimum": 0
+            },
+            "creation_date": {
+                "type": "string"
+            },
+            "last_modified": {
+                "type": "string"
+            }
+        },
+        "required": [
+            "filename",
+            "full_path",
+            "file_size",
+            "creation_date",
+            "last_modified"
+        ]
+    }
+}

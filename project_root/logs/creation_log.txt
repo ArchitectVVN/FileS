@@ -1,0 +1,13 @@
+=== Лог создания структуры и файлов: 2024-12-28 09:58:18 ===
+Созданы (или уже существовали) каталоги:
+  - project_root\data\raw
+  - project_root\data\processed
+  - project_root\logs
+  - project_root\backups
+  - project_root\output
+
+Созданы файлы:
+  - project_root\data\raw\example_utf8.txt (encoding=utf-8)
+  - project_root\data\raw\example_iso.txt (encoding=iso-8859-1)
+  - project_root\data\raw\example_ascii.txt (encoding=ascii)
+
